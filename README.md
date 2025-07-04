@@ -56,8 +56,3 @@ Phishing is a type of cyber-attack that aims to steal sensitive user data by mim
 - Source: UCI Machine Learning Repository
 - Type: CSV containing phishing & legitimate URLs with labels
 
-## 📌 Setup Instructions
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/phishing-detection-ml.git
